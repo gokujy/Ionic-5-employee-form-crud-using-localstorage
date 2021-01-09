@@ -7,4 +7,6 @@ Follow these steps to set up project:
 2. run $npm install
 3. run $ionic serve 
 
+In this  project we have done email, name, number etc validation using FormBuilder.
+
 If you have any query about this, contact me on - jrathod1994@gmail.com
