@@ -1,4 +1,4 @@
-# Ionic-6-employee-form-crud-using-localstorage
+# Ionic-5-employee-form-crud-using-localstorage
 
 Here is the demo of the crud in Ionic 6 using localstorage.
 
